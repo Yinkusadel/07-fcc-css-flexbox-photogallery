@@ -1,6 +1,6 @@
 # CSS FLEXBOX PHOTO GALLERY
 
->  A responsive photo gallery webpage built using Flexbox 
+> A responsive photo gallery webpage built using Flexbox
 
 ![screenshot](./app_screenshot.png)
 
