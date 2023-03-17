@@ -8,10 +8,18 @@ Additional description of the project and its features.
 
 ## Built With
 
-- html
-- header
-- div
-- CSS ,universal selector ,pseudo selector
+- ### HTML5 elements
+  - **Block element**
+    `div` `header`
+  - **replaced Inline element**
+    `img`
+- ### CSS properties
+  - CSS selectors `class selector` `pseudo selector` `universal selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
