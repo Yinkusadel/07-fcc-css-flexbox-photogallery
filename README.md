@@ -1,6 +1,6 @@
-# Project Name
+# CSS FLEXBOX PHOTO GALLERY
 
-> One paragraph statement about the project.
+> A responsive photo gallery webpage built using Flexbox
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,13 +8,22 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- ### HTML5 elements
+  - **Block element**
+    `div` `header`
+  - **replaced Inline element**
+    `img`
+- ### CSS properties
+  - CSS selectors `class selector` `pseudo selector` `universal selector`
+- ### Linters
+  - [prettier](prettier),
+  - [stylelint](stylelint).
+
+### GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://07-fcc-cssflexboxphotogallery.netlify.app)
 
 ### Development (Running locally)
 
